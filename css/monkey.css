@@ -12,7 +12,7 @@ html {
 
 @media (max-width: 1170px) and (min-width: 406px) {
 #monkey {
-  top:;
+  top:-100px;
   
 }
  }
