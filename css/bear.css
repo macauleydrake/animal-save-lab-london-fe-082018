@@ -12,5 +12,5 @@ html {
 
 @media (min-width: 1196px) {
   #bear {
-    margin-left: 800px;
+    left: 800px;
   }
