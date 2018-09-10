@@ -12,9 +12,7 @@ html {
 
 @media (max-width: 1170px) and (min-width: 406px) {
 #monkey {
-  position: absolute;
-  top:406px;
-  right: 1170px;
+  top:;
   
 }
  }
