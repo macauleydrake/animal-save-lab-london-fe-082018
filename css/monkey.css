@@ -10,4 +10,7 @@ html {
 
 /* Write your solution here */
 
-@media (max-width)
+@media (max-width: 406px) (min-width: 1170px){
+ 
+  }
+}
