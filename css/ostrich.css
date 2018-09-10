@@ -9,7 +9,7 @@ html {
 }
 
 /* Write your solution here */
-@media (max-width: 1420px) {
+@media (max-width: 720px) {
   #ostrich {
   top: -100px;
 }
